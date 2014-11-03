@@ -1,0 +1,18 @@
+{
+  "name": "Coursesight-spike",
+  "version": "0.0.0",
+  "homepage": "https://github.com/viktorstaikov/coursesight-spike",
+  "authors": [
+    "Viktor Staikov <viktor.staikov@gmail.com>"
+  ],
+  "description": "This is spike for AngularJS + Telerik Platform",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
