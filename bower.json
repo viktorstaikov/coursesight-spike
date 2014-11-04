@@ -14,5 +14,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "~1.2.21",
+    "bootstrap": "~3.2.0",
+    "angular-route": "~1.2.21",
+    "kendo-ui-core": "~2014.2.903"
+  }
 }
